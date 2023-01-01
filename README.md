@@ -1,5 +1,5 @@
 # OTTO-Multi-Objective-Recommender-System
-A Kaggle Competition
+A [Kaggle Competition](https://www.kaggle.com/competitions/otto-recommender-system/overview)
 # Version Logs
 
 * [DEVELOP1.5](https://colab.research.google.com/drive/1QLt8OBWYSWmHiQQ1OCxaHaN96PyhQTEN#scrollTo=WDkdfZnxEB02&uniqifier=1):
