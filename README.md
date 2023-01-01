@@ -15,6 +15,7 @@ A [Kaggle Competition](https://www.kaggle.com/competitions/otto-recommender-syst
 * [DEVELOP1.2](https://colab.research.google.com/drive/19ku8TR77OhTH0nHgLiEr_PepVnjgCiws): 
   - [x] New code for modeling
 ---
+* [Link Prediction on Heterogeneous Graphs with PyG](https://medium.com/@pytorch_geometric/link-prediction-on-heterogeneous-graphs-with-pyg-6d5c29677c70)
 * [Example AutoEncoder.ipynb](https://colab.research.google.com/drive/1nyufporgJp-j4BqZ6jYwgdMLyz_bJ_es#scrollTo=WjdGbaa8LdU9)
 * [Recommender Systems with Graph Neural Networks in PyG](https://colab.research.google.com/drive/1qQEcYrzWJyJpAlwCMcJdFNPlYlyzHPdF#scrollTo=ktxdLosxtgZd)
 * https://blog.dataiku.com/graph-neural-networks-link-prediction-part-two
