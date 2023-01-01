@@ -5,6 +5,7 @@ A [Kaggle Competition](https://www.kaggle.com/competitions/otto-recommender-syst
 * [DEVELOP1.5](https://colab.research.google.com/drive/1QLt8OBWYSWmHiQQ1OCxaHaN96PyhQTEN#scrollTo=WDkdfZnxEB02&uniqifier=1):
   - [X] Mini-Batch for a very large data (example [here](https://colab.research.google.com/drive/1ksnVuQBPZA7W0nbOokz6nqB0EdDKWOUk#scrollTo=Vi25Z7lFPPjc)) with `LinkNeighborLoader`
   - [X] Added evaluate fucntion (AUC)
+  - [X] Run on CUDA GPU
 * [DEVELOP1.4](https://colab.research.google.com/drive/1DMHdyKAxoJLJlOynj0p8fUqnySYLpucG#scrollTo=yf2nIQqrAy8y&uniqifier=1): 
   - [x] Back to 1 edge type and predicting the edges event - example [here](https://colab.research.google.com/drive/1ksnVuQBPZA7W0nbOokz6nqB0EdDKWOUk)
   - [X] Added code to load and construct graph for test dataset 
