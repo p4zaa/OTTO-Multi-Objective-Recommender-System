@@ -2,6 +2,10 @@
 A [Kaggle Competition](https://www.kaggle.com/competitions/otto-recommender-system/overview)
 # Version Logs
 
+* [DEVELOP1.6](https://colab.research.google.com/drive/1LMM4KUubrtgFevA8BQiTAU_4AgC4FOlM#scrollTo=hbuDkO-Nh8kA&uniqifier=2)
+  - [X] Added feature embeddings layer in Model
+  - [X] Added Polars for better time and memory efficiency
+  - [X] Bring back our beloved pre-step(in mini-batch) for lazy initialization
 * [DEVELOP1.5](https://colab.research.google.com/drive/1QLt8OBWYSWmHiQQ1OCxaHaN96PyhQTEN#scrollTo=WDkdfZnxEB02&uniqifier=1):
   - [X] Mini-Batch for a very large data (example [here](https://colab.research.google.com/drive/1ksnVuQBPZA7W0nbOokz6nqB0EdDKWOUk#scrollTo=Vi25Z7lFPPjc)) with `LinkNeighborLoader`
   - [X] Added evaluate fucntion (AUC)
