@@ -3,7 +3,7 @@ A [Kaggle Competition](https://www.kaggle.com/competitions/otto-recommender-syst
 # Version Logs
 
 * [DEVELOP1.7](https://colab.research.google.com/drive/1OYwFL1Nb0QpBH4AHctdeHqjz_napt5xX#scrollTo=aED_TAobTF6d)
-  - [ ] 
+  - [ ] gg
 * [DEVELOP1.6](https://colab.research.google.com/drive/1LMM4KUubrtgFevA8BQiTAU_4AgC4FOlM#scrollTo=hbuDkO-Nh8kA&uniqifier=2)
   - [X] Added feature embeddings layer in Model
   - [X] Added Polars for better time and memory efficiency
