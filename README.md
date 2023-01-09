@@ -9,7 +9,7 @@ A [Kaggle Competition](https://www.kaggle.com/competitions/otto-recommender-syst
   ### Issues
   - [ ] Memory crash while split data with `T.RandomLinkSplit` in standard high GPU mode (fine in premium >;3)
   - [X] `IndexError: Item index larger than the largest item index`
-     > Resoved - more detail in notion ;ppp
+     > Solved - more detail in notion ;ppp
   ### Futures
   - [ ] Can use node in/out degree as `x`
   - [ ] Consider new model structure also new train/test procedure
