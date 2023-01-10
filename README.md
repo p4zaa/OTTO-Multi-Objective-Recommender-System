@@ -2,7 +2,7 @@
 A [Kaggle Competition](https://www.kaggle.com/competitions/otto-recommender-system/overview)
 # Version Logs
 
-## [DEVELOP2.0](https://colab.research.google.com/drive/1DWLNG4t_VM2_6QRQuAl8WdFgANs4L3ec)
+## [DEVELOP1.8.1](https://colab.research.google.com/drive/1DWLNG4t_VM2_6QRQuAl8WdFgANs4L3ec)
   ### Changes
 
   ### Issues
