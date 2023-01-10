@@ -2,6 +2,13 @@
 A [Kaggle Competition](https://www.kaggle.com/competitions/otto-recommender-system/overview)
 # Version Logs
 
+## [DEVELOP2.0](https://colab.research.google.com/drive/1DWLNG4t_VM2_6QRQuAl8WdFgANs4L3ec)
+  ### Changes
+
+  ### Issues
+
+  ### Futures
+
 ## [DEVELOP1.8](https://colab.research.google.com/drive/1-0RupSIL7Z5gO3VuaJmirDZn2uRPtGnd#scrollTo=ztCYkbwc-z5g&uniqifier=1)
   ### Changes
   - [X] Use preprocessed `edge_index` and `edge_label` (combined train+test nodes/edges)
