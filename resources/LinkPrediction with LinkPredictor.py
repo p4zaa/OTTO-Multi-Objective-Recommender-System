@@ -160,8 +160,6 @@ train_graph = train_graph.to(device)
 val_graph = val_graph.to(device)
 
 
-
-
 model = GNNStack(node_emb_dim, hidden_dim, hidden_dim, num_layers, dropout, emb=True).to(device) # the graph neural network that takes all the node embeddings as inputs to message pass and agregate
 link_predictor = LinkPredictor(hidden_dim, hidden_dim, 1, num_layers + 1, dropout).to(device)
 
