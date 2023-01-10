@@ -6,9 +6,13 @@ A [Kaggle Competition](https://www.kaggle.com/competitions/otto-recommender-syst
 ## [DEVELOP1.8.1](https://colab.research.google.com/drive/1DWLNG4t_VM2_6QRQuAl8WdFgANs4L3ec)
   ### Changes
   > Minor changes
+  - [X] Some minor change on training code procedure
+  - [X] Added early stopping
+  - [X] Get final node embeddings via `model.get_embedding(data.x_dict, data.edge_index_dict)`
   ### Issues
-
+  - [X] Minor issues got fixed - more detail in Notion
   ### Futures
+  - [ ] Play around with final embeddings
 
 ## [DEVELOP1.8](https://colab.research.google.com/drive/1-0RupSIL7Z5gO3VuaJmirDZn2uRPtGnd#scrollTo=ztCYkbwc-z5g&uniqifier=1)
   ### Changes
@@ -17,7 +21,7 @@ A [Kaggle Competition](https://www.kaggle.com/competitions/otto-recommender-syst
   ### Issues
   - [ ] Memory crash while split data with `T.RandomLinkSplit` in standard high GPU mode (fine in premium >;3)
   - [X] `IndexError: Item index larger than the largest item index`
-     > Solved - more detail in notion ;ppp
+     > Solved - more detail in Notion ;ppp
   ### Futures
   - [ ] Can use node in/out degree as `x`
   - [ ] Consider new model structure also new train/test procedure
