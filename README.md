@@ -11,7 +11,7 @@ A [Kaggle Competition](https://www.kaggle.com/competitions/otto-recommender-syst
   - [X] Nothing...
   ### Futures
   - [ ] Separate recommendation class (clicks, carts, buys)
-  - [ ] Play around with `EdgeEncoder`
+  - [ ] Play around with `EdgeDecoder`
   - [ ] Try using preprocess node features 
 
 ## [DEVELOP1.8.1](https://colab.research.google.com/drive/1DWLNG4t_VM2_6QRQuAl8WdFgANs4L3ec)
