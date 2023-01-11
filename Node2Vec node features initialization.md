@@ -16,7 +16,22 @@ Example graph:
 | 5 | 2 | 0 |
 
 ## `session` nodes
-[later]
+Create graph of connected session that interacted with the same aid
+|   |session|pair_session|
+|---|---|---|
+| 0 | 0 | 1 |
+| 1 | 0 | 2 |
+| 2 | 1 | 2 |
+| 3 | 2 | 1 |
+
+```python
+>>> edge_index
+tensor([[0, 0, 1, 2],
+        [1, 2, 2, 1]])
+        
+>>> edge_index.shape
+torch.Size([2, 4]) #[2, num_edges]
+```
 
 ## `aid` nodes
 |   |session|aid|prev_aid|
