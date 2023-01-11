@@ -1,5 +1,5 @@
 # Node2Vec Features Initialization 
-
+## Using Node2Vec model to preprocessing node features for non-feature's node types
 Node2vec is a method for learning low-dimensional representations of nodes in a graph.
 It is designed to work with a **single type of node**, but it can be applied to different types of nodes by **treating each node type as a separate graph**, and learning embeddings for each one separately. In this way, multiple node types can be incorporated into a single graph representation, by concatenating the embeddings of each node type.
 This will allow to the model to learn a multi-typed node structure.
