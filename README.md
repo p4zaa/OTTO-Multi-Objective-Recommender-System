@@ -8,7 +8,7 @@ A [Kaggle Competition](https://www.kaggle.com/competitions/otto-recommender-syst
   - [X] Added `create_recommendations` function which input `session_embeddings`, `aid_embeddings` and `top_n` and return a list of recommended `aid` for each `session`
   - [X] Added code for create DataFrame for every `session` recommendations
   ### Issues
-  - [X] Nothing...
+  - [ ] Create recommendation dataframe take very long time to iterate every `session`
   ### Futures
   - [ ] Separate recommendation class (clicks, carts, buys)
   - [ ] Play around with `EdgeDecoder`
