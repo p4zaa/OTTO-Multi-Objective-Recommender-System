@@ -3,6 +3,17 @@ A [Kaggle Competition](https://www.kaggle.com/competitions/otto-recommender-syst
 # Version Logs
 > Follow [this](https://github.com/pyg-team/pytorch_geometric/blob/master/examples/hetero/hetero_link_pred.py) example provided by PyTorch Geometric Team
 
+## [DEVELOP1.8.2](https://colab.research.google.com/drive/1GmnRBdJ3NFHp9SU-DU95tfAnBQpBwyZZ#scrollTo=9_6TjlM6bB_3&uniqifier=9)
+  ### Changes
+  - [X] Added `create_recommendations` function which input `session_embeddings`, `aid_embeddings` and `top_n` and return a list of recommended `aid` for each `session`
+  - [X] Added code for create DataFrame for every `session` recommendations
+  ### Issues
+  - [X] Nothing...
+  ### Futures
+  - [ ] Separate recommendation class (clicks, carts, buys)
+  - [ ] Play around with `EdgeEncoder`
+  - [ ] Try using preprocess node features 
+
 ## [DEVELOP1.8.1](https://colab.research.google.com/drive/1DWLNG4t_VM2_6QRQuAl8WdFgANs4L3ec)
   ### Changes
   > Minor changes
@@ -12,7 +23,8 @@ A [Kaggle Competition](https://www.kaggle.com/competitions/otto-recommender-syst
   ### Issues
   - [X] Minor issues got fixed - more detail in Notion
   ### Futures
-  - [ ] Play around with final embeddings
+  - [X] Play around with final embeddings
+    > In 1.8.2
 
 ## [DEVELOP1.8](https://colab.research.google.com/drive/1-0RupSIL7Z5gO3VuaJmirDZn2uRPtGnd#scrollTo=ztCYkbwc-z5g&uniqifier=1)
   ### Changes
