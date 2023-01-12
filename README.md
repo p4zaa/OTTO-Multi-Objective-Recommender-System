@@ -4,6 +4,7 @@ A [Kaggle Competition](https://www.kaggle.com/competitions/otto-recommender-syst
 > Follow [this](https://github.com/pyg-team/pytorch_geometric/blob/master/examples/hetero/hetero_link_pred.py) example provided by PyTorch Geometric Team
 
 ## [DEVELOP1.9](https://colab.research.google.com/drive/1KKbkxQALKQM6LDn-hsbLN7LWnArrm6iE#scrollTo=gGH8Sd8O97x7)
+  > Submission Recall@20 score: 0.486
   ### Changes
   - [X] Using preprocessing node features from Node2Vec model
     > Improve AUC score at 0.5983 compare to random features (AUC 0.5000)
