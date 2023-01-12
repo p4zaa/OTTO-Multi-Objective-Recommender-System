@@ -5,7 +5,7 @@ A [Kaggle Competition](https://www.kaggle.com/competitions/otto-recommender-syst
 
 ## [DEVELOP1.9](https://colab.research.google.com/drive/1KKbkxQALKQM6LDn-hsbLN7LWnArrm6iE#scrollTo=gGH8Sd8O97x7)
   ### Changes
-
+  - [X] Using preprocessing node features from Node2Vec model
   ### Issues
 
   ### Futures
@@ -20,7 +20,8 @@ A [Kaggle Competition](https://www.kaggle.com/competitions/otto-recommender-syst
   ### Futures
   - [ ] Separate recommendation class (clicks, carts, buys)
   - [ ] Play around with `EdgeDecoder`
-  - [ ] Try using preprocess node features 
+  - [X] Try using preprocess node features 
+    > In 1.9
 
 ## [DEVELOP1.8.1](https://colab.research.google.com/drive/1DWLNG4t_VM2_6QRQuAl8WdFgANs4L3ec)
   ### Changes
