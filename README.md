@@ -6,6 +6,7 @@ A [Kaggle Competition](https://www.kaggle.com/competitions/otto-recommender-syst
 ## [DEVELOP1.9](https://colab.research.google.com/drive/1KKbkxQALKQM6LDn-hsbLN7LWnArrm6iE#scrollTo=gGH8Sd8O97x7)
   ### Changes
   - [X] Using preprocessing node features from Node2Vec model
+    > Improve AUC score at 0.5983 compare to random features (AUC 0.5000)
   ### Issues
 
   ### Futures
