@@ -3,6 +3,14 @@ A [Kaggle Competition](https://www.kaggle.com/competitions/otto-recommender-syst
 # Version Logs
 > Follow [this](https://github.com/pyg-team/pytorch_geometric/blob/master/examples/hetero/hetero_link_pred.py) example provided by PyTorch Geometric Team
 
+## [DEVELOP1.9](https://colab.research.google.com/drive/1KKbkxQALKQM6LDn-hsbLN7LWnArrm6iE#scrollTo=gGH8Sd8O97x7)
+  ### Changes
+
+  ### Issues
+
+  ### Futures
+
+
 ## [DEVELOP1.8.2](https://colab.research.google.com/drive/1GmnRBdJ3NFHp9SU-DU95tfAnBQpBwyZZ#scrollTo=9_6TjlM6bB_3&uniqifier=9)
   ### Changes
   - [X] Added `create_recommendations` function which input `session_embeddings`, `aid_embeddings` and `top_n` and return a list of recommended `aid` for each `session`
