@@ -66,10 +66,10 @@ device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
 ## Load Preprocess Edge Index, Edge Label and Node Features
 ```python
-edge_index = torch.load('/content/drive/MyDrive/OTTO-Kaggle-Competition/session-aid_edges_train_and_test.pt')
-edge_label = torch.load('/content/drive/MyDrive/OTTO-Kaggle-Competition/edge_label_session-aid_edges_train_and_test.pt')
-session_feat = torch.load('/content/drive/MyDrive/OTTO-Kaggle-Competition/feature embeddings/session_features.pt')
-aid_feat = torch.load('/content/drive/MyDrive/OTTO-Kaggle-Competition/feature embeddings/aid_features.pt')
+edge_index = torch.load('.../session-aid_edges_train_and_test.pt')
+edge_label = torch.load('.../edge_label_session-aid_edges_train_and_test.pt')
+session_feat = torch.load('.../session_features.pt')
+aid_feat = torch.load('.../aid_features.pt')
 ```
 
 ## Nodes and Edges Atrributes
