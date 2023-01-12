@@ -1,5 +1,6 @@
 # Graph-Based Multi-Objective Recommender System
-**With [PyTorch](https://pytorch.org/) and [PyTorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/)**
+**Link Prediction Modeling** with [PyTorch](https://pytorch.org/) and [PyTorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/)
+
 ## Import Libraries
 ```python
 import numpy as np
