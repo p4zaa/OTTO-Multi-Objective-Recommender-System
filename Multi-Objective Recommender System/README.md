@@ -404,9 +404,6 @@ for sampled_data in tqdm.tqdm(val_loader):
         _, pred, ground_truth = test(data=sampled_data.to(device))
         preds.append(pred)
         ground_truths.append(ground_truth)
-        # TODO: Collect predictions and ground-truths and write them into
-        # `preds` and `ground_truths`.
-        #raise NotImplementedError
 
 pred = torch.cat(preds, dim=0).cpu().numpy()
 ground_truth = torch.cat(ground_truths, dim=0).cpu().numpy()
