@@ -1,4 +1,4 @@
-# OTTO-Multi-Objective-Recommender-System
+# [LOGBOOK] OTTO-Multi-Objective-Recommender-System
 A [Kaggle Competition](https://www.kaggle.com/competitions/otto-recommender-system/overview)
 # Version Logs
 > Follow [this](https://github.com/pyg-team/pytorch_geometric/blob/master/examples/hetero/hetero_link_pred.py) example provided by PyTorch Geometric Team
