@@ -1,4 +1,4 @@
-# OTTO Multi Objective Recommender System
+# OTTO Multi-Objective Recommender System
 A Kaggle competition | Build a recommender system based on real-world e-commerce sessions.
 
 **Keywords:** `Recommender System` `Graph Neural Network` `Heterogeneous Graph` <br/>
@@ -10,7 +10,7 @@ The goal of this competition is to predict e-commerce clicks, cart additions, an
 
 Your work will help improve the shopping experience for everyone involved. Customers will receive more tailored recommendations while online retailers may increase their sales.
 
-# Multi-Objective Recommender System using Link Prediction
+# Link Prediction with Multi-Objective Recommender System
 In this project, I participated in the OTTO Kaggle competition to develop a Multi-Objective Recommender System using a Link Prediction Approach. The dataset used in the competition consisted of 12 million real-world user sessions, 220 million events, and 1.8 million unique articles in the catalog.
 
 I took the initiative to study and work on this project independently, which allowed me to expand my knowledge and skills in the field of machine learning and data processing. I utilized the PyTorch framework and the PyTorch Geometric library to implement Graph Neural Networks. Furthermore, I optimized the code and model to run efficiently on a CUDA GPU and used Polars as the DataFrame library for maximum GPU and memory efficiency.
